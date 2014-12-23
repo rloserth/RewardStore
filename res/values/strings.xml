@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RewardsStore</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="add_reward">Add Reward</string>
+    <string name="reward_name">Reward Name</string>
+    <string name="account_number">Account Number</string>
+    <string name="category">Category</string>
+    <string name="notes">Notes</string>
+   
+    
+    <string name="rewards_title">My Rewards</string>
+    <string name="add_button">ADD</string>
+    
+    <string name="save_data">Save</string>
+    
+    <string name="edit_reward_title">Edit Reward</string>
+    <string name="edit_button">Edit</string>
+    <string name="delete_button">Delete</string>
+
+</resources>

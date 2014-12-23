@@ -1,0 +1,154 @@
+!SESSION 2014-04-06 14:44:09.687 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-06 14:44:40.300
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/com.obeodesigner.sample.family.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-06 14:44:40.720
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/fr.obeo.mda.pim.ecore.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-06 14:44:40.838
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/fr.obeo.mda.pim.ecore.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-06 14:44:41.017
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/fr.obeo.sample.ecore.interactions.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-06 14:44:41.094
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/org.obeonetwork.dsl.database.design]
+!SESSION 2014-04-06 14:45:12.249 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-06 14:45:21.461
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/com.obeodesigner.sample.family.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-06 14:45:21.693
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/fr.obeo.mda.pim.ecore.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-06 14:45:21.817
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/fr.obeo.mda.pim.ecore.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-06 14:45:21.999
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/fr.obeo.sample.ecore.interactions.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-06 14:45:22.096
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/org.obeonetwork.dsl.database.design]
+!SESSION 2014-04-08 00:20:17.970 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-08 00:20:36.373
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/com.obeodesigner.sample.family.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-08 00:20:36.609
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/fr.obeo.mda.pim.ecore.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-08 00:20:36.721
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/fr.obeo.mda.pim.ecore.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-08 00:20:36.880
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/fr.obeo.sample.ecore.interactions.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-08 00:20:36.967
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/org.obeonetwork.dsl.database.design]
+!SESSION 2014-04-08 00:21:01.833 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-08 00:21:09.266
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/com.obeodesigner.sample.family.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-08 00:21:09.465
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/fr.obeo.mda.pim.ecore.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-08 00:21:09.578
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/fr.obeo.mda.pim.ecore.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-08 00:21:09.740
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/fr.obeo.sample.ecore.interactions.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-08 00:21:09.824
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/org.obeonetwork.dsl.database.design]
+!SESSION 2014-04-14 11:39:33.582 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-14 11:40:56.100
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/com.obeodesigner.sample.family.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-14 11:40:56.659
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/fr.obeo.mda.pim.ecore.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-14 11:40:56.777
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/fr.obeo.mda.pim.ecore.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-14 11:40:57.672
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/fr.obeo.sample.ecore.interactions.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-14 11:40:57.793
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/org.obeonetwork.dsl.database.design]
+!SESSION 2014-04-14 11:41:54.508 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-14 11:42:06.025
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/com.obeodesigner.sample.family.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-14 11:42:06.232
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/fr.obeo.mda.pim.ecore.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-14 11:42:06.342
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/fr.obeo.mda.pim.ecore.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-14 11:42:06.492
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/fr.obeo.sample.ecore.interactions.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-14 11:42:06.572
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/org.obeonetwork.dsl.database.design]
+!SESSION 2014-04-14 19:35:50.572 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-14 19:36:16.167
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/com.obeodesigner.sample.family.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-14 19:36:16.403
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/fr.obeo.mda.pim.ecore.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-14 19:36:16.510
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/fr.obeo.mda.pim.ecore.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-14 19:36:16.678
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/fr.obeo.sample.ecore.interactions.design]
+
+!ENTRY org.eclipse.core.resources 2 2 2014-04-14 19:36:16.755
+!MESSAGE No valid registration key found : This operation is not available with your current license, or the license is expired. See Help > Register Obeo to request a license appropriate for your needs. [fr.obeo.dsl.viewpoint60,*,/org.obeonetwork.dsl.database.design]
