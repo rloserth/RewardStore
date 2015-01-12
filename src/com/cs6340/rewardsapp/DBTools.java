@@ -14,7 +14,7 @@ public class DBTools extends SQLiteOpenHelper {
 	public DBTools(Context applicationContext){
 		
 		super(applicationContext, "rewardbook.db", null, 1);
-		
+		/* Just adding a comment for testing */
 	}
 
 	@Override
